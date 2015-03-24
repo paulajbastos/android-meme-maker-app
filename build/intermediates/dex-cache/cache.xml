@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\paulajbastos\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="C:\xampp\htdocs\android-projects\android-meme-maker\app\build\intermediates\pre-dexed\debug\support-v4-19.0.1-e64f2b736bf5c0debdbe8cd9b8379099e13e8aef.jar" />
+    </item>
+    <item
+        jar="C:\Users\paulajbastos\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v13\19.0.1\support-v13-19.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a4d00c1fa39c05a544fc2221af40bbf76e07c7df">
+        <dex dex="C:\xampp\htdocs\android-projects\android-meme-maker\app\build\intermediates\pre-dexed\debug\support-v13-19.0.1-2ce337236d54d5209b78c66d18dcea082b513eeb.jar" />
+    </item>
+
+</items>
