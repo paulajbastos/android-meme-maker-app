@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/android-meme-maker.iml" filepath="$PROJECT_DIR$/android-meme-maker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-meme-maker-app.iml" filepath="$PROJECT_DIR$/android-meme-maker-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
